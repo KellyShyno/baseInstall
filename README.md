@@ -8,4 +8,4 @@ installing base packets and utilities
 ./unix.sh
 #done
 #break a leg #_#
-#vk: https://vk.com/termuxkelly
+#vk: https://vk.com/linuxkelly
