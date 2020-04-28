@@ -1,11 +1,10 @@
-#middleShyno
+#KellyShyno
 #baseInstall
-installing base packets and utilities
-#use
+#installing base packets and utilities
 #for just termux
 ./termux.sh
-#for unix* distros
-./unix.sh
+#for linux distros
+./linux.sh
 #done
 #break a leg #_#
 #vk: https://vk.com/linuxkelly

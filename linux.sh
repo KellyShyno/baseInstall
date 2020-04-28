@@ -1,7 +1,10 @@
+#!/bin/bash
+#rise..
+
 apt update -y
- echo Unix --- update ---
+ echo Linux --- update ---
 apt upgrade -y
- echo Unix --- upgrade ---
+ echo Linux --- upgrade ---
 apt install ftp -y
  echo ftp installed
 apt install openssh -y

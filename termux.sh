@@ -1,3 +1,6 @@
+#!/bin/bash
+#rise..
+
 apt update -y
  echo termux --- update ---
 apt upgrade -y
